@@ -1,0 +1,4 @@
+[DATABASE]
+DSN = nomeDoSeuDSN
+USER = seuUsuarioExternoDoDominioSistemas
+PASSWORD = senhaDoUsuarioExterno

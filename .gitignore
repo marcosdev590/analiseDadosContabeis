@@ -13,7 +13,11 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# ARQUIVO DE CONFIGURAÇÃO COM SENHAS
-# Adicione aqui o nome do arquivo que conterá suas senhas!
-config.ini 
-credenciais.json
+# Arquivo de configuração com credenciais
+config.ini
+
+# Arquivo de saída gerado pelo script
+faturamento_final.csv
+
+# Arquivos de entrada que podem conter dados de clientes
+cnpjs.txt
